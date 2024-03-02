@@ -8,4 +8,4 @@ Better and %50 faster than Sasting V1!
 
 # Set Up Colorama
 
-```pip install colorama
+```pip install colorama```
